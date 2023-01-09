@@ -1,5 +1,3 @@
-// Let's start LaLaSol coding!co
-
 
 const content=[
     {name: 'Elon Musk',
