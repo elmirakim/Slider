@@ -1,0 +1,25 @@
+body{
+    background-color: #1a1b26;
+}
+h1{
+ text-align:center;
+ color:white;
+}
+#root{
+list-style-type:none;
+height: 400px;
+width: 350px;
+border: 1px solid gray;
+margin: auto;
+color:white;
+text-align: center;
+}
+.button{
+display: inline-block;
+}
+.buttons{
+text-align: center;
+}
+#root img{
+height: 150px;
+}
